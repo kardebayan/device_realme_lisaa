@@ -93,6 +93,7 @@ PRODUCT_PACKAGES += \
     multi_init.rc \
     fstab.enableswap \
     fstab.mt6895 \
+    fstab.mt6895.vendor_ramdisk \
     ueventd.mt6895.rc
 
 # Shipping API level
