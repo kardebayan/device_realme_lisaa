@@ -82,6 +82,7 @@ PRODUCT_PACKAGES += \
     init.mt6895.usb.rc \
     init.mtkgki.rc \
     init.project.rc \
+    init.recovery.mt6895.rc \
     init.sensor_2_0.rc \
     init_conninfra.rc \
     meta_init.connectivity.common.rc \
